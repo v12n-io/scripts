@@ -38,3 +38,4 @@ systemctl status consul
 
 # Complete
 echo "Done"
+- 'curl https://raw.githubusercontent.com/v12n-io/scripts/master/configure-consul-cluster.sh | /bin/bash /dev/stdin dc1 ffffffffffff 1 172.25.0.214'
